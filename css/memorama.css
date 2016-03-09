@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+}
+body{
+    background-image: url(../media/image/memorama/burried.png);
+}
+img{
+    position: relative;
+    float: left;
+    width: 220px;
+    height: 220px;
+    margin-bottom: 5px;
+    margin-right: 5px;
+    background-image: url(../media/image/memorama/back.png);
+}
+img:hover{
+    box-shadow: 2px 2px 20px gold;
+}
+div{
+    clear: both;
+}
+#board{
+    position: absolute;
+    float: left;
+    margin-top: 20px;
+    margin-left: 400px;
+    width: 900px;
+    height: auto;
+}
+#menu{
+    position: absolute;
+    float: left;
+    width: 180px;
+    height: 100%;
+    box-shadow: 2px 0px 50px black;
+    background-image: url(../media/image/memorama/dark_wood.png);
+}
+button{
+    width: 150px;
+    height: 60px;
+    display: block;
+    color: whitesmoke;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    font-family: "Times New Roman";
+    font-size: 16px;
+    background-image:url(../media/image/memorama/dark_leather.png);
+    box-shadow: 2px 2px 30px black;
+    
+}
