@@ -1,20 +1,20 @@
 $(document).on('ready',function(event){
-    var listaImagenes = ["media/image/memorama/img01.png",
-                         "media/image/memorama/img02.png",
-                         "media/image/memorama/img03.png",
-                         "media/image/memorama/img04.png",
-                         "media/image/memorama/img05.png",
-                         "media/image/memorama/img06.png",
-                         "media/image/memorama/img07.png",
-                         "media/image/memorama/img08.png",
-                         "media/image/memorama/img01.png",
-                         "media/image/memorama/img02.png",
-                         "media/image/memorama/img03.png",
-                         "media/image/memorama/img04.png",
-                         "media/image/memorama/img05.png",
-                         "media/image/memorama/img06.png",
-                         "media/image/memorama/img07.png",
-                         "media/image/memorama/img08.png"];
+    var listaImagenes = [".../image/memorama/img01.png",
+                         ".../images/memorama/img02.png",
+                         ".../images/memorama/img03.png",
+                         ".../images/memorama/img04.png",
+                         ".../images/memorama/img05.png",
+                         ".../images/memorama/img06.png",
+                         ".../images/memorama/img07.png",
+                         ".../images/memorama/img08.png",
+                         ".../images/memorama/img01.png",
+                         ".../images/memorama/img02.png",
+                         ".../images/memorama/img03.png",
+                         ".../images/memorama/img04.png",
+                         ".../images/memorama/img05.png",
+                         ".../images/memorama/img06.png",
+                         ".../images/memorama/img07.png",
+                         ".../images/memorama/img08.png"];
     var listaRandom;
     var $button = $('button');
     var str = "img";
